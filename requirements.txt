@@ -1,9 +1,0 @@
-pyPDF2
-sentencepiece
-bert-extractive-summarizer
-spacy
-transformers
-neuralcoref
-pegasuspy
-git+https://github.com/google/flax.git
-pip install python-rake
